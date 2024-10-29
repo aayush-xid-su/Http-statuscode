@@ -22,13 +22,14 @@ error = f"{blue}[{white}!{blue}] {red}"
 info = f"{yellow}[{white}+{yellow}] {cyan}"
 info2 = f"{green}[{white}•{green}] {purple}"
 
-# Original banner
-original_banner = f"""
-{red}                                                                    ⢀⣀⣀⣀ ⢀⣀⣀⡀
-{red}  ⠈⢻⣿⣷⣀⣾⣿⠟  ⣿⣿ ⢸⣿⣿⣿⣷⣶⡄ ⣠⣶⣿⣿⣿⣶⣄⢸⣿⣿⣿⣿⣿⣿⡇⣿⣿⡇ ⣴⣾⣿⣿⣷⣦     ⠈⠳⡄⠈⣦⠞⢁⣽⠃
-{blue}    ⠹⣿⣿⣿⠏   ⣿⣿ ⢸⣿⣿ ⢹⣿⣿⢠⣿⣿⠏ ⢹⣿⣿⡀  ⢰⣿⣿    ⣿⣿⡇⢸⣿⣿ ⠈⠿⠿⠇ ⢀⣀⣀⣀ ⢙⣄⠈ ⡾⠁ 
-{red}   ⢀⣾⣿⢿⣿⣧⡀  ⣿⣿ ⢸⣿⣿⣀⣸⣿⣿⠈⣿⣿⣆⣀⣸⣿⣿⠁ ⢸⣿⣿     ⣿⣿⡇⠸⣿⣿⣄⣀⣶⣶⡆ ⠸⠧⠤⠼⢠⡞⢀⣤⡀⠙⣆ 
-{red}  ⠠⠿⠿⠏⠈⠿⠿⠷⠄⠿⠿ ⠸⠿⠿⠿⠿⠟⠁ ⠘⠻⠿⠿⠿⠟⠁   ⠸⠿⠿     ⠿⠿⠇ ⠙⠿⠿⠿⠿⠋     ⠠⠯⠤⠞⠁⠳⠤⠬⠧
+
+banner = f"""                                                                                                              
+{red}      nnnnz   nnnt  nnn   onnnnnp        znlllo     nnnnnnnnnnr  nnn     znlllq                aaaasyush  xidsuuuu       
+{red}       h000ss000q  u000v  b00000000d   j000000000l z0000000000f  000z  g000000000                aaaayush xiddddd         
+{blue}       t000000    u000v  b00h   000g l000x   t000t    s000      000z x000t   e00i                  ayush xd          
+{blue}        b0000i    u000v  b00h   000e i000     000q    s000      000z s000            c   u         ayush xd           
+{red}       z000j000c   u000v  b00h  p000l t000n   i000x    s000      000z y000h   c00k    mwwws       aaaayush xiddddd         
+{red}      l000u  0000x u000v  b00000000t   z00000000a      s000      000z   a0000000i               aaaasyush  xidsuuuu  
 {cyan}                                         [{blue}By {green}Aayush-xid-su{cyan}]
 """
                     
